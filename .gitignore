@@ -28,6 +28,7 @@
 !*.ts
 !*.txt
 !Makefile
+!LICENSE
 
 # Don't ignore gitignore file itself
 !.gitignore
